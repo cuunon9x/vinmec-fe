@@ -1,8 +1,8 @@
-### VINMEC
+### VINMEC-FE
 
-To run this application, do steps below:.\
-Change .env to your local.
+To run this application, do steps below:
+### 1. Change .env to your local.
 
-### `npm i`
+### 2. `npm i`
 
-### `npm start`
+### 3. `npm start`
